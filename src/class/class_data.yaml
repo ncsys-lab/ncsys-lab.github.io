@@ -16,8 +16,14 @@ instructors:
     role: PhD Student
     email: lukeyi@stanford.edu
     image: /img/lukeyi.png
-    direction: "Hyperdimentional computation and other unconventional computing paradigms"
+    direction: "Hyperdimensional computing and other unconventional computing paradigms"
     website: "https://y553546436.github.io/"
+  - name: Chae Young Lee
+    role: PhD Student
+    email: chae@stanford.edu
+    image: /img/ChaeYoung.jpg
+    direction: "Hyperdimensional computing, mobile embedded systems"
+    website: "https://chaeyoung-lee.github.io/"
 
 assignments:
 

@@ -36,6 +36,8 @@ We are interested in developing novel computing systems for unconventional compu
 	{/each}
 </div>
 
+## Publications
+
 ## Attributions
 
 This website is based on versions of CS110 and CS111's website created by

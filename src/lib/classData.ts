@@ -116,6 +116,7 @@ export interface ClassData {
 export interface Instructor {
   name: string;
   image: string;
+  direction: string;
   role?: string;
   email?: string;
   officeHours: OfficeHour[];

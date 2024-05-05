@@ -8,16 +8,16 @@
 
 <NavbarBase>
   <NavList>
-    <NavListItem href={base} big>CS 104</NavListItem>
+    <NavListItem href={base} big>Stanford NCS Lab</NavListItem>
   </NavList>
   <NavList>
-    <NavListItem href="{drive}">Drive</NavListItem>
-    <NavListItem href="{base}/lectures">Lectures</NavListItem>
-    <NavListItem href="{base}/assignments">Assignments</NavListItem>
-    <NavListItem href="{base}/course_info">Course Info</NavListItem>
-    <NavListItem href="{base}/software">Software Installation</NavListItem>
-    <NavListItem href={edstem} external>Ed Discussion</NavListItem>
-    <NavListItem href={gradescope} external>Gradescope</NavListItem>
-    <NavListItem href={canvas} external>Canvas</NavListItem>
+    <!-- NavListItem href="{drive}">Drive</NavListItem -->
+    <!-- NavListItem href="{base}/lectures">Lectures</NavListItem -->
+    <!-- NavListItem href="{base}/assignments">Assignments</NavListItem -->
+    <!-- NavListItem href="{base}/course_info">Course Info</NavListItem -->
+    <!-- NavListItem href="{base}/software">Software Installation</NavListItem -->
+    <!-- NavListItem href={edstem} external>Ed Discussion</NavListItem -->
+    <!-- NavListItem href={gradescope} external>Gradescope</NavListItem -->
+    <!-- NavListItem href={canvas} external>Canvas</NavListItem -->
   </NavList>
 </NavbarBase>

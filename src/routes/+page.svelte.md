@@ -1,5 +1,5 @@
 ---
-title: 'CS 45'
+title: 'NCS Lab'
 ---
 
 <script lang="ts">
@@ -11,35 +11,13 @@ title: 'CS 45'
   import Callout from '$lib/Callout.svelte';
 </script>
 
-# CS 104: Introduction to Essential Software Systems and Tools
+# Stanford Novel Computing Systems Lab
 
-## Course Description
+## Lab Description
 
-Classes teach you all about advanced topics within CS, from operating systems to machine learning,
-but there’s one critical subject that’s rarely covered, and is instead left to students to figure
-out on their own: proficiency with their tools. This course will teach you how to master the key
-tools necessary for being a successful computer scientist, such as the command line, version control
-systems, debuggers and linters, and many more. In addition, we will cover other key topics that are
-left out of standard CS classes, but that are essential to being a proficient computer scientist,
-including: security and cryptography, containers and virtual machines, and cloud computing.
+We are interested in developing novel computing systems for unconventional computing paradigms and emerging hardware platforms.
 
-## General Information
-
-This course meets in-person three times a week, Monday / Wednesday / Friday from 3:00 to 4:20 at
-260-113. The course is offered for 3 units on either a letter grade or a CR/NC basis. For more
-information about the course structure, visit the [Course Info]({base}/course_info) page.
-
-## Computer Setup & Software Installation
-
-This course will have about a 50/50 mix of conceptual background and hands-on practice with the
-tools we'll teach– this means you’ll need to be able to download and install software onto your
-computer (either your personal computer, or a computer you have access to).
-[Click here]({base}/software) for more information about setting up your computer and the kinds of
-software we’ll be using. (Let us know if this will present a challenge, e.g. if you’re using a
-chromebook or a very old computer, or don’t have access to a personal computer– we may be able to
-help 😄)
-
-## Course Staff
+## People
 
 <!-- **Staff Mailing List:** -->
 <!-- [cs45-spr2223-staff@lists.stanford.edu](mailto:cs45-spr2223-staff@lists.stanford.edu) -->
@@ -51,26 +29,15 @@ help 😄)
 			name={instructor.name}
 			role={instructor.role}
 			email={instructor.email}
+			direction={instructor.direction}
+			website={instructor.website}
 			officeHours={instructor.officeHours}
 		/>
 	{/each}
 </div>
 
-Unless you're contacting us about OH or something else instructor-specific, please
- make a post on Ed.
-
-## Calendar
-
-<Calendar />
-
 ## Attributions
 
-This class is an expanded offering of CS45, a fantastic Stanford course that was originally developed by Akshay Srivatsan, Ayalet Drazen, and Jonathan Kula. Big thanks to the MIT CSAIL's
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) taught by
-[Anish Athalye](https://www.anishathalye.com/), [Jon Gjengset](https://thesquareplanet.com/), and
-[Jose Javier Gonzalez Ortiz](https://josejg.com/)– The Missing Semester was the original inspiration
-for CS 45.
-
-Additionally, this website is based on versions of CS110 and CS111's website created by
+This website is based on versions of CS110 and CS111's website created by
 [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php) and
 [Jerry Cain](https://profiles.stanford.edu/gerald-cain?tab=teaching)– thank you!

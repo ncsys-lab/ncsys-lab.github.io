@@ -7,36 +7,17 @@ assignment_due_time: 23:59
 
 instructors:
   - name: Sara Achour
-    role: Instructor
+    role: Professor (PI)
     email: sachour@stanford.edu
     image: /img/sachour.png
-    officeHours:
-      - when: 'On Demand'
-        where: 'in Gates 484'
-        #url: ''
-  - name: Jin-Hee Lee
-    role: Course Assistant
-    email: jhclee@stanford.edu
-    image: /img/jinhee.jpg
-    officeHours:
-      - when: 'TueThu 10:30am-11:20am'
-        where: 'with Signup'
-        url: https://calendly.com/jhclee/cs104-office-hours
-  - name: Aman Kansal
-    role: Course Assistant
-    email: amkansal@stanford.edu
-    image: /img/aman.png
-    officeHours:
-      - when: 'Mon 10-11am, Wed 9-10am'
-        where: 'on Zoom'
-        url: 'https://stanford.zoom.us/j/5673672112?pwd=R014MjhuVkJZUmVwTlAySlpxaUZXdz09'
-  - name: Cole Sohn
-    role: Course Assistant
-    email: csohn@stanford.edu
-    image: /img/cole.jpeg
-    officeHours:
-      - when: 'Tue 9am-11am'
-        where: 'on Zoom'
+    direction: "Union of students's research directions"
+    website: "https://www.sara-achour.me/"
+  - name: Pu (Luke) Yi
+    role: PhD Student
+    email: lukeyi@stanford.edu
+    image: /img/lukeyi.png
+    direction: "Hyperdimentional computation and other unconventional computing paradigms"
+    website: "https://y553546436.github.io/"
 
 assignments:
 

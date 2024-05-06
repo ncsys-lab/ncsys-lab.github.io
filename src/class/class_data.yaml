@@ -24,6 +24,11 @@ instructors:
     image: /img/ChaeYoung.jpg
     direction: "Hyperdimensional computing, mobile embedded systems"
     website: "https://chaeyoung-lee.github.io/"
+  - name: Yu-Neng Wang
+    role: PhD Student
+    email: wynwyn@stanford.edu
+    image: /img/yuneng.jpeg
+    direction: Software system for analog circuit and algorithm co-design
 
 assignments:
 

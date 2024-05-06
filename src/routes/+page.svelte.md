@@ -42,4 +42,4 @@ We are interested in developing novel computing systems for unconventional compu
 
 This website is based on versions of CS110 and CS111's website created by
 [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php) and
-[Jerry Cain](https://profiles.stanford.edu/gerald-cain?tab=teaching)– thank you!
+[Jerry Cain](https://profiles.stanford.edu/gerald-cain?tab=teaching) – thank you!

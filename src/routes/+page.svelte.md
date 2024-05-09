@@ -36,7 +36,13 @@ We are interested in developing novel computing systems for unconventional compu
 	{/each}
 </div>
 
+## News
+
 ## Publications
+
+## Tools
+
+## Fun Activities
 
 ## Attributions
 

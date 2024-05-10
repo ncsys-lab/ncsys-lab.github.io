@@ -30,6 +30,11 @@ instructors:
     image: /img/yuneng.jpeg
     direction: Software system for analog circuit and algorithm co-design
     website: "https://wangyuneng.github.io/"
+  - name: Ritvik Sharma
+    role: PhD Student
+    email: rsharma3@stanford.edu
+    image: /img/ritvik.jpg
+    direction: Compilers and tools for Quantum and Sparse Computing
 
 assignments:
 

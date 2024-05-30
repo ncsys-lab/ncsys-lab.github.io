@@ -35,6 +35,11 @@ instructors:
     email: rsharma3@stanford.edu
     image: /img/ritvik.jpg
     direction: Compilers and tools for Quantum and Sparse Computing
+  - name: William Salcedo
+    role: M.S. Student
+    email: wrs225@stanford.edu
+    image: /img/william.jpg
+    direction: Verification tools for mixed-signal systems, AI generated hardware design methodologies
 
 assignments:
 

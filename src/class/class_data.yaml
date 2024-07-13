@@ -12,6 +12,17 @@ instructors:
     image: /img/sachour.png
     direction: "Union of students's research directions"
     website: "https://www.sara-achour.me/"
+  - name: Yu-Neng Wang
+    role: PhD Student
+    email: wynwyn@stanford.edu
+    image: /img/yuneng.jpeg
+    direction: Software system for analog circuit and algorithm co-design
+    website: "https://wangyuneng.github.io/"
+  - name: Ritvik Sharma
+    role: PhD Student
+    email: rsharma3@stanford.edu
+    image: /img/ritvik.jpg
+    direction: Compilers and tools for Quantum and Sparse Computing
   - name: Pu (Luke) Yi
     role: PhD Student
     email: lukeyi@stanford.edu
@@ -24,17 +35,12 @@ instructors:
     image: /img/ChaeYoung.jpg
     direction: "Hyperdimensional computing, mobile embedded systems"
     website: "https://chaeyoung-lee.github.io/"
-  - name: Yu-Neng Wang
+  - name: Devrath Iyer
     role: PhD Student
-    email: wynwyn@stanford.edu
-    image: /img/yuneng.jpeg
-    direction: Software system for analog circuit and algorithm co-design
-    website: "https://wangyuneng.github.io/"
-  - name: Ritvik Sharma
-    role: PhD Student
-    email: rsharma3@stanford.edu
-    image: /img/ritvik.jpg
-    direction: Compilers and tools for Quantum and Sparse Computing
+    email: deviyer@stanford.edu
+    image: /img/dev.jpeg
+    direction: "Probabilistic Computing"
+    website: "https://web.stanford.edu/~deviyer/"
   - name: William Salcedo
     role: M.S. Student
     email: wrs225@stanford.edu

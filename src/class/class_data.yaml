@@ -34,13 +34,13 @@ instructors:
     email: chae@stanford.edu
     image: /img/ChaeYoung.jpg
     direction: "Hyperdimensional computing, mobile embedded systems"
-    website: "https://chaeyoung-lee.github.io/"
+    website: "https://stanford.edu/~chae/"
   - name: Devrath Iyer
     role: PhD Student
     email: deviyer@stanford.edu
     image: /img/dev.jpeg
-    direction: "Probabilistic Computing"
-    website: "https://web.stanford.edu/~deviyer/"
+    direction: "Dendrocentric Computing"
+    website: "https://stanford.edu/~deviyer/"
   - name: William Salcedo
     role: M.S. Student
     email: wrs225@stanford.edu
@@ -127,7 +127,7 @@ assignments:
     #  gradescope: ''
     details: |-
       This assignment covers playing with git and version control.
-      
+
 
   - name: 'Feedback Survey 4: Its Git-ing Hot in Here'
     points: 2
@@ -145,7 +145,7 @@ assignments:
     #  gradescope: ''
     details: |-
       This assignment covers playing with Make, CI and profiling
-  
+
   - name: 'Feedback Survey 5: It all makes sense'
     points: 2
     due: 2024/02/26
@@ -153,7 +153,7 @@ assignments:
       survey: 'https://forms.gle/6b3SmXeqZjoTKvDM8'
     details: |-
       This assignment covers playing with Make, CI and profiling
-  
+
   - name: 'Assignment 6: The (Public) Key to My Heart'
     points: 8
     due: 2024/03/13
@@ -161,7 +161,7 @@ assignments:
      handout: 'https://docs.google.com/document/d/1XKLtCnXYFmAr6O9mSKu5C0ArrXmZLcnJWH1rYDllsH0/edit?usp=drive_link'
     details: |-
       This assignment covers playing with encryption and security
-  
+
   - name: 'Feedback Survey 6: The (Public) Key to My Heart'
     points: 2
     due: 2024/03/13
@@ -169,7 +169,7 @@ assignments:
       survey: 'https://forms.gle/mT3PY8PVGsS2GXqg9'
     details: |-
       This assignment covers playing with encryption and security
-  
+
   - name: 'Assignment 7: On Cloud Nine'
     points: 8
     due: 2024/03/15
@@ -177,7 +177,7 @@ assignments:
      handout: 'https://docs.google.com/document/d/16MsNboYptwiUFh2Vnzxesg8tDJnrrS9HTXG9QQJPMIs/edit?usp=drive_link'
     details: |-
       This assignment covers cloud computing and serverless computing
-  
+
   - name: 'Feedback Survey 7: On Cloud Nine'
     points: 2
     due: 2024/03/15
@@ -191,7 +191,7 @@ assignments:
       handout: 'https://docs.google.com/document/d/1ClG4Or5n07QLL4K5K3S0JrqpHOx_URBIn73GeUVbXdM/edit?usp=drive_link'
     details: |-
       This assignment covers media processing and image manipulation.
-  
+
   - name: 'Feedback Survey 8: Its like Magick'
     materials:
       survey: 'https://forms.gle/7QpcBCwDR7V99WN1A'
@@ -264,7 +264,7 @@ lectures:
     due:
       assign 1: '/assignments'
       survey 1: '/assignments'
-  
+
   - topic: 'Lecture 4: Text Editors'
     materials:
       slides: 'https://docs.google.com/presentation/d/1GIh596acXkSftsa6NX7t-gsxVZGIQhuH_YICOCqhLms/edit?usp=drive_link'
@@ -279,7 +279,7 @@ lectures:
     assignments:
       assign 3: '/assignments'
       survey 3: '/assignments'
-  
+
   # Week 4
   - topic: 'Lecture 5: Command Line Environment'
     materials:
@@ -287,7 +287,7 @@ lectures:
     due:
         assign 2: '/assignments'
         survey 2: '/assignments'
-  
+
   - topic: 'Lecture 6: Command Line Environment II'
     materials:
         slides: 'https://docs.google.com/presentation/d/1OOy628nLEfViVOdyxRG-U8GIwqFL1pLiXZDFmp5LnC0/edit?usp=drive_link'
@@ -307,13 +307,13 @@ lectures:
         slides: 'https://docs.google.com/presentation/d/1WTpqVEdAEWl-Y5i3Lo-TzKumR6rOzoU4rgleY3KOuYI/edit?usp=drive_link'
     details: |-
         Introduction to networking
-  
+
   - topic: 'Lecture 8: Version Control'
     materials:
         slides: 'https://drive.google.com/file/d/1fFJ2iC0d00R1Gv5uqJCeLtfamcmqcOm2/view?usp=drive_link'
     details: |-
         Introduction to git and version control
-    
+
   - topic: 'Lab 5'
     details: |-
         In-class shell scripting exercises with TA/instructor supervision.
@@ -332,13 +332,13 @@ lectures:
         slides: 'https://docs.google.com/presentation/d/13j_FPCZY5JuShpbDiuwg77SE46tlWlu22LwK2Fojn7k/edit?usp=drive_link'
     details: |-
         Version management and version control systems
-  
+
   - topic: 'Lecture 9: Build Systems & Dev Ops'
     materials:
         slides: 'https://docs.google.com/presentation/d/1isLw7hikQDg4DnZJsVmjPPTV5g28UfJhN7fsbDL9O9s/edit?usp=drive_link'
     details: |-
         Build systems and Dev Ops
-  
+
   - topic: 'Lab 6'
     details: |-
         In-class shell scripting exercises with TA/instructor supervision.
@@ -347,18 +347,18 @@ lectures:
     assignments:
       assign 5: '/assignments'
       survey 5: '/assignments'
-  
+
   # Week 7
   - topic: 'Holiday'
     materials:
         slides: ''
-  
+
   - topic: 'Lecture 10: Debugging and Profiling'
     materials:
         slides: 'https://docs.google.com/presentation/d/1D4QoIEYsbggZXOvMc89-QWOjgIJ0qY_JX8_av8Pq30I/edit?usp=drive_link'
     details: |-
         debugging and profiling
-  
+
   - topic: 'Lab 7'
     details: |-
         In-class shell scripting exercises with TA/instructor supervision.
@@ -372,11 +372,11 @@ lectures:
     due:
       assign 5: '/assignments'
       survey 5: '/assignments'
-  
+
   - topic: 'Lecture 12: Cryptography'
     materials:
         slides: 'https://docs.google.com/presentation/d/1izPqqNWOWD_OYDPPLO95vcG6N_gs8PWZqL8eXv8POYQ/edit?usp=drive_link'
-  
+
   - topic: 'Lab 8'
     details: |-
         In-class shell scripting exercises with TA/instructor supervision.
@@ -391,11 +391,11 @@ lectures:
   - topic: 'Lecture 13: VMs and Containers'
     materials:
         slides: 'https://docs.google.com/presentation/d/1-zb44m6l2yrkyQoB_C7u7OjNbTDxUOLCdZYy7aQeUtM/edit?usp=drive_link'
-  
+
   - topic: 'Lecture 14: Cloud & Serverless'
     materials:
         slides: 'https://docs.google.com/presentation/d/1MDfcuKd6wpAAG3n2t451wmcBa8LCJu9B3iOG7jhevK8/edit?usp=drive_link'
-  
+
   - topic: 'Lab 9'
     details: |-
         In-class shell scripting exercises with TA/instructor supervision.
@@ -410,14 +410,14 @@ lectures:
   - topic: 'Lecture 15: Recent Tools'
     materials:
         slides: 'https://drive.google.com/file/d/1fTjMj9XP0fb-fGKX1TASS17XzXFfssx1/view?usp=drive_link'
-  
+
   - topic: 'Lecture 16: Media Processing'
     materials:
         slides: 'https://docs.google.com/presentation/d/1MDfcuKd6wpAAG3n2t451wmcBa8LCJu9B3iOG7jhevK8/edit?usp=drive_link'
     due:
       assign 6: '/assignments'
       survey 6: '/assignments'
-  
+
   - topic: 'Lab 10'
     details: |-
         In-class shell scripting exercises with TA/instructor supervision.

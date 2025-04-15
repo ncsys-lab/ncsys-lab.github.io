@@ -41,6 +41,12 @@ instructors:
     image: /img/dev.jpeg
     direction: "Dendrocentric Computing"
     website: "https://stanford.edu/~deviyer/"
+  - name: Kunal Sheth
+    role: PhD Student
+    email: ks1@stanford.edu
+    image: /img/kunal.jpeg
+    direction: "SMT Solvers for Analog and Mixed-Signal Systems"
+    website: "https://kunalsheth.info"
   - name: William Salcedo
     role: M.S. Student
     email: wrs225@stanford.edu
